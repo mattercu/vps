@@ -1,0 +1,9 @@
+{
+  "urls": [
+    "http://httpbin.org/ip",
+    "http://api.ipify.org?format=json",
+    "http://ip-api.com/json",
+    "http://ifconfig.me/all.json",
+    "https://api.myip.com"
+  ]
+}

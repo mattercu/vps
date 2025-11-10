@@ -1,0 +1,12 @@
+{
+  "thread": 200,
+  "checktl": 3,
+  "checkwb": 2,
+  "timeout": 10,
+  "batch_size": 100,
+  "quality_thresholds": {
+    "strong": {"max_speed": 200, "min_success": 90},
+    "medium": {"max_speed": 500, "min_success": 70},
+    "weak": {"max_speed": 2000, "min_success": 50}
+  }
+}
