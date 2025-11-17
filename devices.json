@@ -1,0 +1,27 @@
+[
+  {
+    "device_name": "emulator-5554",
+    "port": 4723,
+    "system_port": 8200
+  },
+  {
+    "device_name": "emulator-5556",
+    "port": 4725,
+    "system_port": 8201
+  },
+  {
+    "device_name": "emulator-5558",
+    "port": 4727,
+    "system_port": 8202
+  },
+  {
+    "device_name": "emulator-5560",
+    "port": 4729,
+    "system_port": 8203
+  },
+  {
+    "device_name": "emulator-5562",
+    "port": 4731,
+    "system_port": 8204
+  }
+]
