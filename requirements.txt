@@ -1,4 +1,0 @@
-Appium-Python-Client
-colorama
-tqdm
-requests
