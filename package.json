@@ -1,0 +1,20 @@
+{
+  "name": "my-tool",
+  "version": "1.0.0",
+  "description": "Auto generated package.json for required modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^7.0.2",
+    "socks-proxy-agent": "^8.0.1",
+    "ws": "^8.16.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.7",
+    "puppeteer-core": "^22.6.4",
+    "proxy-verifier": "^1.7.0",
+    "utls-node": "^1.0.2"
+  }
+}
