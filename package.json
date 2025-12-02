@@ -14,7 +14,7 @@
     "puppeteer-extra-plugin-stealth": "^2.11.1",
     "puppeteer-extra-plugin-recaptcha": "^3.6.7",
     "puppeteer-core": "^22.6.4",
-    "proxy-verifier": "^1.7.0",
+    "proxy-verifier": "^1.5.0",
     "utls-node": "^1.0.2"
   }
 }
